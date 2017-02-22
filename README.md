@@ -5,8 +5,8 @@ This is the project of the course 'Getting and Cleaning Data'.
 In R a script is created called 'run_analysis.R'. The goal is to prepare a tidy dataset. This script does the following. 
 
 1)	a. Download and unzip the dataset "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
-	  b. Load the test and the training datasets with read.csv
-	  c. Create one dataset
+	b. Load the test and the training datasets with read.csv
+	c. Create one dataset
 
 2) Extract only the measurements on the mean and standard deviation for each measurement.
 
