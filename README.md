@@ -21,3 +21,5 @@ c. Create one dataset
 
 
 The tidy dataset is called 'tidy_dataset.txt'.
+
+The Codebook summarizes the data fields of 'tidy_dataset.txt'.
